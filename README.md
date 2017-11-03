@@ -24,7 +24,7 @@ To complete Part I, fulfill the following requirements:
 To complete Part II, fulfill the following requirements in HTML:
 
 1. Create a div with a class of container.
-2. Create 9 buttons. Each button should have an id of button1, button2, button3...etc. all the way until button9. Each button should have a different category for your favorite items. For example:
+2. Create 9 buttons inside of this container div. Each button should have an id of button1, button2, button3...etc. all the way until button9. Each button should have a different category for your favorite items. For example:
 
 ```HTML
 <button id="button1">Favorite Movie</button>
@@ -85,4 +85,4 @@ button1.addEventListener('click', function() {
 })
 ```
 ### Stretch Goals
-1. Make this page iconically yours! What makes you, Your? Add pictures, text, and other enhancements to personalize this page. 
+1. Make this page iconically yours! What makes you, Your? Add pictures, text, and other enhancements to personalize this page.
