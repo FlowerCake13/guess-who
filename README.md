@@ -86,3 +86,7 @@ button1.addEventListener('click', function() {
 ```
 ### Stretch Goals
 1. Make this page iconically yours! What makes you, Your? Add pictures, text, and other enhancements to personalize this page.
+2. Create a loading screen that will play an animation while we wait for your screen to load. Use ```  var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart``` to get your loading time. To create a loading screen, here are some hints:
+* Create the loading screen in your HTML.
+* Create a timeout function that will execute the following function when your page loads:
+  * In this function, set the display property of your loading screen to none. 
