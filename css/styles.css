@@ -1,0 +1,18 @@
+#container{
+	width: 80%;
+	height: 600px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+button{
+	font-family: 'Indie Flower', cursive;
+	width: 200px;
+	height: 200px;
+	border-radius: 200px;
+	outline: none;
+	font-size: 20px;
+	background-color: #b2e9ff
+}
